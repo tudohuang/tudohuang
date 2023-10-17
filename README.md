@@ -2,7 +2,7 @@
 <p align="center">
 <h1 align="center">I'm Tudo Huang!
 
-
+<p align="center"><img src="https://github.com/tudohuang/readme/blob/main/IMG_4068.PNG" width="75%"><br>
 
 ## About Me
 * Taiwanese high school student
