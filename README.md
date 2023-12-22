@@ -29,7 +29,7 @@
   </a>
   
   <a href="https://github.com/tudohuang#user-activity-overview">
-    <img title="tudohuang's Github Streak" alt="JenJenUwU's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tudohuang" />
+    <img title="tudohuang's Github Streak" alt="tudo's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tudohuang" />
   </a>
   
   <a href="https://github.com/tudohuang?tab=repositories">
