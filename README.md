@@ -7,7 +7,6 @@
 ## About Me
 * Taiwanese high school student
 * Studying in Grade 11
-* Intern in Dimwave Co
 * Email: tudohuang@gmail.com
 * Discord: tudohuang#tudo
 ---
