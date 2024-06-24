@@ -1,17 +1,26 @@
 <h1 align="center">Tudo Huang 黃鈺翔 Speaking📈</h1>
 <h3 align="center">AI training and Arduino project lover.</h3>
 
-- Studying in CGSH
-- Entern in Dimwave INC.
-- Member of CKCSC
-----------------
-### Experiences:
-- [CITHUB](https://github.com/AlgoAICITHUB/CITHUB)
-- [PhantomLight](https://github.com/tudohuang/PhantomLight)
-- [SigmaGO](https://github.com/tudohuang/SigmaGO)
-- [MRICNN](https://github.com/tudohuang/Kaggle-MRI)
+<p align="center"><img src="https://github.com/tudohuang/readme/blob/main/IMG_4068.PNG" width="75%"><br>
 
-<h3 align="left">Interested language and tool</h3>
+## About Me
+- Studying in CGSH
+- Intern at Dimwave INC.
+- Member of CKCSC
+* Email: tudohuang@gmail.com
+* Discord: tudohuang#tudo
+
+
+
+---
+
+### Experiences:
+- Developing Academic Community: [CITHUB](https://github.com/AlgoAICITHUB/CITHUB) => `html`, `js`, `css`,`python`,`SQL`,`flask`,`git`,`Heroku`,`docker`
+- Developing real time moving things recognizer: [PhantomLight](https://github.com/tudohuang/PhantomLight) => `pytorch`, `arduino`,`python`, `numpy`, `matplotlib`, `opencv`, `C`
+- Inspired by AlphaGo, developing [SigmaGO](https://github.com/tudohuang/SigmaGO) => `pytorch`, `arduino`,`python`, `numpy`, `bash`, `Linux`
+- CNN Practicing [MRICNN](https://github.com/tudohuang/Kaggle-MRI)
+-----------------------------------------------
+<h3 align="left">Interested Languages and Tools</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -34,9 +43,9 @@
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="40" height="40"/>
-</a>
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -52,10 +61,9 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-
+  </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
@@ -72,14 +80,14 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-</a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  </a>
 </p>
 
 <p>
@@ -94,6 +102,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tudohuang&" alt="tudohuang" />
 </p>
 
-  <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
-    <img title="tudohuang's LeetCode Stats" alt="tudohuang's LeetCode Stats" src="https://leetcard.jacoblin.cool/tudohuang?theme=nord&font=Quando&ext=activity" />
-  </a>
+<a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">
+  <img title="tudohuang's LeetCode Stats" alt="tudohuang's LeetCode Stats" src="https://leetcard.jacoblin.cool/tudohuang?theme=nord&font=Quando&ext=activity" />
+</a>
