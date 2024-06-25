@@ -7,8 +7,6 @@
 - Studying in CGSH
 - Intern at Dimwave INC.
 - Member of CKCSC
-* Email: tudohuang@gmail.com
-* Discord: tudohuang#tudo
 
 
 
