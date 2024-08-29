@@ -67,15 +67,25 @@
 <details>
 <summary>2024 - 高一</summary>
 
-- **January**: 魅影魔光
+- **2023 September**: 魅影魔光
+
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudohuang&repo=phantomlight&theme=dark)
+
+- **2023 December**: 圍棋機器人
+
+![readme](https://github-readme-stats.vercel.app/api/pin/?username=tudohuang&repo=sigmago&theme=dark)
+
 - **May**: 酵母紀錄
+
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudohuang&repo=Yeast-Recording&theme=dark)
 - **June**: Flask放課成發
+
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudohuang&repo=CITHUB&theme=dark)
 - **July**: 雷達測速
+
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudohuang&repo=Radar-Project&theme=dark)
 - **August**: MCU示波器
+
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tudohuang&repo=MCU-Oscilloscope&theme=dark)
 
 </details>
