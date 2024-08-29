@@ -73,7 +73,7 @@
 
 - **2023 December**: 圍棋機器人
 
-![readme](https://github-readme-stats.vercel.app/api/pin/?username=tudohuang&repo=sigmago&theme=dark)
+    ![readme](https://github-readme-stats.vercel.app/api/pin/?username=tudohuang&repo=sigmago&theme=dark)
 
 - **May**: 酵母紀錄
 
