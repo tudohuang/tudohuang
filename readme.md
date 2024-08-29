@@ -4,7 +4,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tudohuang&layout=compact&theme=vision-friendly-dark)
 ![stat](https://github-readme-streak-stats.herokuapp.com/?user=tudohuang&theme=dark)
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tudohuang&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<a href="https://gitroll.io/profile/uqwf1kv8C6sULjt9HIKcbz8ZmxeD2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uqwf1kv8C6sULjt9HIKcbz8ZmxeD2" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uqwf1kv8C6sULjt9HIKcbz8ZmxeD2" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uqwf1kv8C6sULjt9HIKcbz8ZmxeD2" alt="GitRoll Profile Badge" width="500" height="auto"/>
+</a>
+
 ### Technologies & Tools
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
