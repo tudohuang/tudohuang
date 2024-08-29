@@ -36,9 +36,9 @@
 
 ### Personal Information
 
-- **Currently Studying**: Chien-Kuo Senior High School (CGSH)
-- **Intern**: Dimwave INC.
-- **Member**: Chien-Kuo Computer Science Club (CKCSC)
+- **Currently Studying**: [Chien-Kuo Senior High School (CKSH)](https://www.cksh.tp.edu.tw/)
+- **Intern**: [Timwave INC.](https://www.timwave.com/)
+- **Member**: [Chien-Kuo Computer Science Club (CKCSC)](https://ckcsc.net)
 
 
 ### Personal Website
