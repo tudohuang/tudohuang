@@ -33,12 +33,12 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-[![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)]
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)]
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)]
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)]
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)]
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)]
+![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 
 
