@@ -10,6 +10,7 @@
     <img src="https://gitroll.io/api/badges/profiles/v1/uqwf1kv8C6sULjt9HIKcbz8ZmxeD2" alt="GitRoll Profile Badge" width="500" height="auto"/>
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=tudohuang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 🔧 Technologies & Tools
